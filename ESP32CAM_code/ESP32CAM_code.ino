@@ -27,7 +27,7 @@ void setupLedFlash();
 
 WiFiUDP udp;
 
-const int UDP_PORT = "*****";
+const int UDP_PORT = "5000";
 
 char udpBuffer[128];
 
